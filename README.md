@@ -79,7 +79,6 @@ To test the code, run `make test` in the source directory. This will exercise bo
 
 The doctests require a network connection (unless all example datasets are cached), but the unit tests can be run offline with `make unittests`.
 
-
 Code style is enforced with `flake8` using the settings in the [`setup.cfg`](./setup.cfg) file. Run `make lint` to check.
  
 Development
